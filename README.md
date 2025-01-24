@@ -54,7 +54,7 @@ After scanning, click Generate Report PDF to create a detailed summary of vulner
 -PDF Generation: FPDF
 Web Requests: Requests library
 ## 🙌 Contributors 
-##Siddharth Gupta
-##Rohini M Gowda
-##Teja S
-##Manasa M
+1. Siddharth Gupta
+2. Rohini M Gowda
+3. Manasa M
+4. S Teja

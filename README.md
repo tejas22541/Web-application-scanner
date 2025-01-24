@@ -36,7 +36,7 @@ A Python-based tool to scan web applications for vulnerabilities such as SQL Inj
    cd repository-name
 Install dependencies:
 pip install -r requirements.txt
-Run the application:
+## Run the application:
 python major.py
 🛠️ Usage
 1. Start Scanning
@@ -46,14 +46,14 @@ Use the Live Traffic Monitor option to monitor response times.
 Detect anomalies using the Anomaly Detection feature.
 3. Generate Report
 After scanning, click Generate Report PDF to create a detailed summary of vulnerabilities.
-📚 Technology Stack
+## 📚 Technology Stack
 Frontend: CustomTkinter for GUI
 Backend: Python libraries for processing and analysis
 Machine Learning: Isolation Forest (from scikit-learn)
 Visualization: Matplotlib
 PDF Generation: FPDF
 Web Requests: Requests library
-🙌 Contributors
+## 🙌 Contributors
 Siddharth Gupta
 Rohini M Gowda
 Teja S

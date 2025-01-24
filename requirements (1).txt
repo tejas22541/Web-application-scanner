@@ -1,0 +1,9 @@
+
+requests
+json
+customtkinter
+fpdf
+pillow
+matplotlib
+scikit-learn
+numpy

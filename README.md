@@ -53,8 +53,8 @@ After scanning, click Generate Report PDF to create a detailed summary of vulner
 -Visualization: Matplotlib
 -PDF Generation: FPDF
 Web Requests: Requests library
-## 🙌 Contributors
--Siddharth Gupta
--Rohini M Gowda
--Teja S
--Manasa M
+## 🙌 Contributors 
+##Siddharth Gupta
+##Rohini M Gowda
+##Teja S
+##Manasa M

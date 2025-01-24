@@ -47,14 +47,14 @@ Detect anomalies using the Anomaly Detection feature.
 3. Generate Report
 After scanning, click Generate Report PDF to create a detailed summary of vulnerabilities.
 ## 📚 Technology Stack
-Frontend: CustomTkinter for GUI
-Backend: Python libraries for processing and analysis
-Machine Learning: Isolation Forest (from scikit-learn)
-Visualization: Matplotlib
-PDF Generation: FPDF
+-Frontend: CustomTkinter for GUI
+-Backend: Python libraries for processing and analysis
+-Machine Learning: Isolation Forest (from scikit-learn)
+-Visualization: Matplotlib
+-PDF Generation: FPDF
 Web Requests: Requests library
 ## 🙌 Contributors
-Siddharth Gupta
-Rohini M Gowda
-Teja S
-Manasa M
+-Siddharth Gupta
+-Rohini M Gowda
+-Teja S
+-Manasa M
